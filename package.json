@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "Node.js adalah platform runtime JavaScript yang dapat dijalankan di luar browser. Ini memungkinkan kita untuk menjalankan JavaScript di server, sehingga dapat digunakan untuk membuat aplikasi web yang kompleks dan scalable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamathecxder/dicoding-nodejs-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamathecxder/dicoding-nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/tamathecxder/dicoding-nodejs-basic#readme"
+}
