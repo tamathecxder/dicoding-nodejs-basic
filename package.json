@@ -4,7 +4,9 @@
   "description": "Node.js adalah platform runtime JavaScript yang dapat dijalankan di luar browser. Ini memungkinkan kita untuk menjalankan JavaScript di server, sehingga dapat digunakan untuk membuat aplikasi web yang kompleks dan scalable.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "SET NODE_ENV=development && node ./process-object/index.js Yudistira",
+    "start-prod": "SET NODE_ENV=production && node ./process-object/index.js Yudistira"
   },
   "repository": {
     "type": "git",
