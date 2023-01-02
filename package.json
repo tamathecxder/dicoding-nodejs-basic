@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tamathecxder/dicoding-nodejs-basic/issues"
   },
-  "homepage": "https://github.com/tamathecxder/dicoding-nodejs-basic#readme"
+  "homepage": "https://github.com/tamathecxder/dicoding-nodejs-basic#readme",
+  "dependencies": {
+    "node": "^19.3.0"
+  }
 }
