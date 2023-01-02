@@ -13,4 +13,9 @@ const fileReadCallBack = (error, data) => {
 
 const filePath = path.resolve(__dirname, 'notes.txt');
 
-fs.readFile(filePath, 'utf-8', fileReadCallBack);
+// Cara Asynchronous
+fs.readFile(filePath, 'utf-8', fileReadCallBack); 
+
+// Cara Synchronous
+const data = fs.readFileSync('./filesystem/notes.txt', 'utf-8');
+console.log(data);
