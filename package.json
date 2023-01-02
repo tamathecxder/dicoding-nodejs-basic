@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tamathecxder/dicoding-nodejs-basic#readme",
   "dependencies": {
+    "moment": "^2.29.4",
     "node": "^19.3.0"
   }
 }
