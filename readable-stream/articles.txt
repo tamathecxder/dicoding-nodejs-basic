@@ -1,0 +1,3 @@
+Pemrograman adalah kegiatan yang mencakup proses menulis, menguji, dan memperbaiki kode sumber komputer untuk membuat perangkat lunak atau menyelesaikan masalah lainnya. Pemrograman dapat dilakukan dengan bahasa pemrograman apa saja, seperti Python, Java, atau C++.
+
+Sebagai seorang programmer, Anda akan membuat desain sistem, menulis kode, dan menguji perangkat lunak untuk memastikan bahwa itu berfungsi dengan baik. Anda juga akan terus belajar tentang teknologi terbaru dan mengembangkan keterampilan Anda untuk menyelesaikan masalah yang lebih kompleks.
